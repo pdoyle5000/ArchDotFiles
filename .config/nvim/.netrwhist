@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/pdoyle/workspace/acadia/applications/instrument/go_coordinator/go/src/coordinator/include'
+let g:netrw_dirhist_2='/home/pdoyle/workspace/acadia/printlog'
+let g:netrw_dirhist_3='/home/pdoyle/workspace/acadia/applications/dashboards/laser_run_metrics/tests'
